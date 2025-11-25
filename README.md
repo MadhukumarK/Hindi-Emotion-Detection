@@ -12,7 +12,11 @@ The system classifies text into five emotions:
 ---
 ## 📸 Preview
 
-![image]()
+![image](images/preview.png)
+This is the user interface of the Streamlit-based Hindi Emotion Detection app.  
+Users can enter any Hindi sentence and instantly view the predicted emotion with an emoji indicator.
+The interface is clean, dark-themed, and easy to use, suitable for real-time emotion prediction.
+
 
 ---
 
