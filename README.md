@@ -1,0 +1,3 @@
+# 🎭 Hindi Emotion Detection (mBERT + BiLSTM)
+
+This project performs **Emotion Detection on Hindi Text** using a hybrid model...
