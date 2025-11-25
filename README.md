@@ -65,8 +65,7 @@ Hindi-Emotion-Detection/
 ├── app.py
 └── images/
 
-yaml
-Copy code
+
 
 ---
 
@@ -75,14 +74,9 @@ Copy code
 ### Install dependencies:
 pip install -r requirements.txt
 
-shell
-Copy code
 
 ### Run the Streamlit app:
 streamlit run app.py
-
-yaml
-Copy code
 
 ---
 
